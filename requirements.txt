@@ -1,0 +1,7 @@
+# Requirements for Johnson's Algorithm with Pairing Heap
+python>=3.8
+# Standard library modules (no need to install):
+# typing, collections, sys, time, random
+# Optional for plotting/benchmarking (uncomment if needed):
+# matplotlib
+# numpy
